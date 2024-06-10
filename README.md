@@ -18,8 +18,7 @@ This is a simple Rock Paper Scissors game implemented using HTML, CSS, and JavaS
 
 ## Preview
 
-![Preview](![image](https://github.com/Bh4vay/Rock-Papers-Scissors/assets/126071104/101e6d94-c1ca-45cb-8e24-1de4a5bf7b83)
-)
+![Preview](ss.jpg)
 
 ## Credits
 
